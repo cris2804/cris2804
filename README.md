@@ -4,6 +4,7 @@
 - 💞️ I'm looking to collaborate on: RedHat
 - 📫 How to contact me: milagros.ruiz.a@uni.pe
 - 😄 Pronouns: Cristina
+- 👀 My portfolio : https://myportfolia-21zk.vercel.app/
 
 <!---
 cris2804/cris2804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
